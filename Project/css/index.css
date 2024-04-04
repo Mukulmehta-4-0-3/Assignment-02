@@ -1,0 +1,21 @@
+body {
+    background-color: whitesmoke;
+    font-size: large;
+    color: black;
+}
+h3 {
+    color: #3e696f;
+}
+li .heading {
+    font-weight: 600;
+}
+main {
+    margin: 5px 150px;
+}
+main h3 {
+    margin: 10px 0px;
+}
+
+.heading {
+    margin-bottom: 2px;
+}
